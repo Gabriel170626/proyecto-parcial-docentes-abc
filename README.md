@@ -19,7 +19,7 @@ De cada docente se guarda: nombre, cédula, correo electrónico, teléfono, depa
 
 ## Requisitos
 
-- Python 3 (el módulo `sqlite3` viene incluido, no hay que instalar nada más).
+- Python 3 (el módulo `sqlite3` viene incluido, e instalar SQLITE Viewer despues de eso no hay que instalar nada más).
 
 ## Cómo ejecutarlo
 
